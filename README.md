@@ -1,5 +1,7 @@
 # influxdb
 
+<br/>
+
 influxdb官网打开很慢
 
 下载链接: https://dl.influxdata.com/influxdb/releases/influxdb-1.6.0.x86_64.rpm
